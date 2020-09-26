@@ -1,0 +1,128 @@
+[
+ {
+  "gender": "female",
+  "firstName": "Laura",
+  "lastName": 0.6060337680911718,
+  "age": 42
+ },
+ {
+  "gender": "male",
+  "firstName": "Michał",
+  "lastName": 0.47747718162294017,
+  "age": 46
+ },
+ {
+  "gender": "female",
+  "firstName": "Jessica",
+  "lastName": 0.7445314859706083,
+  "age": 70
+ },
+ {
+  "gender": "female",
+  "firstName": "Gosia",
+  "lastName": 0.23497311860095693,
+  "age": 52
+ },
+ {
+  "gender": "male",
+  "firstName": "Tomek",
+  "lastName": 0.6503361101444456,
+  "age": 29
+ },
+ {
+  "gender": "male",
+  "firstName": "Marek",
+  "lastName": 0.8452148491335532,
+  "age": 66
+ },
+ {
+  "gender": "male",
+  "firstName": "Paweł",
+  "lastName": 0.020162706315446588,
+  "age": 47
+ },
+ {
+  "gender": "male",
+  "firstName": "Mateusz",
+  "lastName": 0.7125252901308192,
+  "age": 29
+ },
+ {
+  "gender": "female",
+  "firstName": "Agnieszka",
+  "lastName": 0.28028843043280016,
+  "age": 34
+ },
+ {
+  "gender": "female",
+  "firstName": "Gosia",
+  "lastName": 0.05709894579616992,
+  "age": 36
+ },
+ {
+  "gender": "male",
+  "firstName": "Łukasz",
+  "lastName": 0.07992713173303145,
+  "age": 51
+ },
+ {
+  "gender": "male",
+  "firstName": "Janek",
+  "lastName": 0.3703655284744247,
+  "age": 38
+ },
+ {
+  "gender": "male",
+  "firstName": "Marek",
+  "lastName": 0.5631537625947802,
+  "age": 37
+ },
+ {
+  "gender": "male",
+  "firstName": "Łukasz",
+  "lastName": 0.5973868439669596,
+  "age": 56
+ },
+ {
+  "gender": "male",
+  "firstName": "Michał",
+  "lastName": 0.5288108547974253,
+  "age": 35
+ },
+ {
+  "gender": "male",
+  "firstName": "Tomek",
+  "lastName": 0.7543754580825452,
+  "age": 28
+ },
+ {
+  "gender": "male",
+  "firstName": "Marek",
+  "lastName": 0.7700538678288791,
+  "age": 65
+ },
+ {
+  "gender": "male",
+  "firstName": "Nataniel",
+  "lastName": 0.40255446145230933,
+  "age": 57
+ },
+ {
+  "gender": "male",
+  "firstName": "Marek",
+  "lastName": 0.8790644312484996,
+  "age": 47
+ },
+ {
+  "gender": "male",
+  "firstName": "Nataniel",
+  "lastName": 0.3836520580560343,
+  "age": 67
+ },
+ {
+  "gender": "male",
+  "firstName": "Janek",
+  "lastName": 0.659382703447156,
+  "age": 42
+ }
+]
