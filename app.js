@@ -22,7 +22,7 @@ for ( let i = 0; i < 21; i++) {
         randFirstName = (randChoice(femaleFirstNames));
     };
 
-    let randLastName = (Math.random(lastNames));
+    let randLastName = (randChoice(lastNames));
 
     let randAge = (randNumber(18, 78));
 
